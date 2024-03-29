@@ -1,0 +1,445 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Sapphire Sparkle Ring",
+      "price": 99.99,
+      "description": "Elegant sapphire ring encrusted with sparkling diamonds.",
+      "category": "Rings",
+      "image": "/images/sapphire_sparkle_ring.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 35
+      }
+    },
+    {
+      "id": "2",
+      "title": "Crystal Drop Earrings",
+      "price": 79.99,
+      "description": "Elegant crystal drop earrings, adding sparkle to any ensemble.",
+      "category": "Earrings",
+      "image": "/images/crystal_drop_earrings.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 34
+      }
+    },
+    {
+      "id": "3",
+      "title": "Crystal Heart Charm",
+      "price": 44.99,
+      "description": "Sparkling crystal heart charm, a symbol of love and affection.",
+      "category": "Charms",
+      "image": "/images/crystal_heart_charm.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 39
+      }
+    },
+    {
+      "id": "4",
+      "title": "Rose Gold Diamond Halo Ring",
+      "price": 199.99,
+      "description": "Stunning rose gold ring with a halo of shimmering diamonds, sure to captivate.",
+      "category": "Rings",
+      "image": "/images/rose_gold_diamond_halo_ring.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 39
+      }
+    },
+    {
+      "id": "5",
+      "title": "Vintage Style Pearl Ring",
+      "price": 119.99,
+      "description": "Vintage-inspired pearl ring adorned with intricate detailing for a timeless look.",
+      "category": "Rings",
+      "image": "/images/vintage_pearl_ring.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 31
+      }
+    },
+    {
+      "id": "6",
+      "title": "Diamond Solitaire Necklace",
+      "price": 299.99,
+      "description": "Dazzling diamond solitaire necklace, a symbol of elegance and sophistication.",
+      "category": "Necklaces",
+      "image": "/images/diamond_solitaire_necklace.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 25
+      }
+    },
+    {
+      "id": "7",
+      "title": "Gold Bar Pendant Necklace",
+      "price": 149.99,
+      "description": "Sleek gold bar pendant necklace, a modern and chic accessory for any occasion.",
+      "category": "Necklaces",
+      "image": "/images/gold_bar_pendant_necklace.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 33
+      }
+    },
+    {
+      "id": "8",
+      "title": "Sapphire and Diamond Halo Pendant",
+      "price": 279.99,
+      "description": "Exquisite sapphire pendant surrounded by a halo of sparkling diamonds, a true statement piece.",
+      "category": "Necklaces",
+      "image": "/images/sapphire_diamond_halo_pendant.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 29
+      }
+    },
+    {
+      "id": "9",
+      "title": "Pearl Strand Bracelet",
+      "price": 199.99,
+      "description": "Luxurious pearl strand bracelet, adding a touch of refinement to any ensemble.",
+      "category": "Bracelets",
+      "image": "/images/pearl_strand_bracelet.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 31
+      }
+    },
+    {
+      "id": "10",
+      "title": "Rose Gold Heart Locket",
+      "price": 199.99,
+      "description": "Romantic rose gold locket adorned with a delicate heart design, perfect for keeping loved ones close to your heart.",
+      "category": "Necklaces",
+      "image": "/images/rose_gold_heart_locket.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 41
+      }
+    },
+    {
+      "id": "11",
+      "title": "Enamel Flower Charm",
+      "price": 49.99,
+      "description": "Vibrant enamel flower charm, adding a pop of color to your charm bracelet.",
+      "category": "Charms",
+      "image": "/images/enamel_flower_charm.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 30
+      }
+    },
+    {
+      "id": "12",
+      "title": "Silver Butterfly Charm",
+      "price": 39.99,
+      "description": "Delicate silver butterfly charm, symbolizing transformation and freedom.",
+      "category": "Charms",
+      "image": "/images/silver_butterfly_charm.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 36
+      }
+    },
+    {
+      "id": "13",
+      "title": "Birthstone Dangle Charm",
+      "price": 59.99,
+      "description": "Personalized birthstone dangle charm, representing your unique birth month.",
+      "category": "Charms",
+      "image": "/images/birthstone_dangle_charm.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 27
+      }
+    },
+    {
+      "id": "14",
+      "title": "Travel Globe Charm",
+      "price": 69.99,
+      "description": "Wanderlust-inspired travel globe charm, perfect for the adventurous soul.",
+      "category": "Charms",
+      "image": "/images/travel_globe_charm.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 24
+      }
+    },
+    {
+      "id": "15",
+      "title": "Emerald Elegance Ring",
+      "price": 149.99,
+      "description": "Exquisite emerald ring set in white gold, perfect for special occasions.",
+      "category": "Rings",
+      "image": "/images/emerald_elegance_ring.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 28
+      }
+    },
+    {
+      "id": "16",
+      "title": "Diamond Tennis Bracelet",
+      "price": 499.99,
+      "description": "Classic diamond tennis bracelet, exuding timeless elegance and sophistication.",
+      "category": "Bracelets",
+      "image": "/images/diamond_tennis_bracelet.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 26
+      }
+    },
+    {
+      "id": "17",
+      "title": "Sterling Silver Infinity Necklace",
+      "price": 99.99,
+      "description": "Timeless sterling silver necklace featuring an infinity symbol, representing eternal love and friendship.",
+      "category": "Necklaces",
+      "image": "/images/sterling_silver_infinity_necklace.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 37
+      }
+    },
+    {
+      "id": "18",
+      "title": "Leather Wrap Bracelet",
+      "price": 79.99,
+      "description": "Stylish leather wrap bracelet, perfect for adding a bohemian flair to your look.",
+      "category": "Bracelets",
+      "image": "/images/leather_wrap_bracelet.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 38
+      }
+    },
+    {
+      "id": "19",
+      "title": "Diamond Drop Earrings",
+      "price": 299.99,
+      "description": "Exquisite diamond drop earrings, adding glamour to any ensemble.",
+      "category": "Earrings",
+      "image": "/images/diamond_drop_earrings.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 22
+      }
+    },
+    {
+      "id": "20",
+      "title": "Gold Hoop Earrings",
+      "price": 149.99,
+      "description": "Classic gold hoop earrings, versatile and timeless.",
+      "category": "Earrings",
+      "image": "/images/gold_hoop_earrings.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 29
+      }
+    },
+    {
+      "id": "21",
+      "title": "Silver Stud Earrings",
+      "price": 69.99,
+      "description": "Simple yet elegant silver stud earrings, perfect for everyday wear.",
+      "category": "Earrings",
+      "image": "/images/silver_stud_earrings.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 36
+      }
+    },
+    {
+      "id": "22",
+      "title": "Pearl Drop Earrings",
+      "price": 129.99,
+      "description": "Sophisticated pearl drop earrings, adding a touch of refinement to any look.",
+      "category": "Earrings",
+      "image": "/images/pearl_drop_earrings.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 33
+      }
+    },
+    {
+      "id": "23",
+      "title": "Crystal Stud Earrings Set",
+      "price": 39.99,
+      "description": "Set of sparkling crystal stud earrings, perfect for adding glamour to any outfit.",
+      "category": "Earrings",
+      "image": "/images/crystal_stud_earrings_set.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 40
+      }
+    },
+    {
+      "id": "24",
+      "title": "Sterling Silver Love Knot Ring",
+      "price": 79.99,
+      "description": "Delicate sterling silver ring featuring a timeless love knot design.",
+      "category": "Rings",
+      "image": "/images/love_knot_ring.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 42
+      }
+    },
+    {
+      "id": "25",
+      "title": "Diamond Cube",
+      "price": 199.99,
+      "description": "Stunning diamond cube, symbolizing strong.",
+      "category": "Necklaces",
+      "image": "/images/diamond_cube.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 27
+      }
+    },
+    {
+      "id": "26",
+      "title": "Pearl Drop Necklace",
+      "price": 89.99,
+      "description": "Graceful pearl drop necklace, perfect for adding a touch of elegance to your outfit.",
+      "category": "Necklaces",
+      "image": "/images/pearl_drop_necklace.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 22
+      }
+    },
+    {
+      "id": "27",
+      "title": "Stainless Steel Watch",
+      "price": 199.99,
+      "description": "Sleek stainless steel watch, combining style and functionality effortlessly.",
+      "category": "Watches",
+      "image": "/images/stainless_steel_watch.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 26
+      }
+    },
+    {
+      "id": "28",
+      "title": "Leather Strap Watch",
+      "price": 149.99,
+      "description": "Classic leather strap watch, a timeless accessory for any occasion.",
+      "category": "Watches",
+      "image": "/images/leather_strap_watch.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 29
+      }
+    },
+    {
+      "id": "29",
+      "title": "Rose Gold Mesh Watch",
+      "price": 249.99,
+      "description": "Elegant rose gold mesh watch, adding a touch of sophistication to your wrist.",
+      "category": "Watches",
+      "image": "/images/rose_gold_mesh_watch.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 23
+      }
+    },
+    {
+      "id": "30",
+      "title": "Stainless Steel Bracelet Watch",
+      "price": 179.99,
+      "description": "Modern stainless steel bracelet watch, a sleek addition to your accessory collection.",
+      "category": "Watches",
+      "image": "/images/stainless_steel_bracelet_watch.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 32
+      }
+    },
+    {
+      "id": "31",
+      "title": "Silver Chain Bracelet",
+      "price": 59.99,
+      "description": "Simple yet stylish silver chain bracelet, perfect for everyday wear.",
+      "category": "Bracelets",
+      "image": "/images/silver_chain_bracelet.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 24
+      }
+    },
+    {
+      "id": "32",
+      "title": "Pearl Bracelet",
+      "price": 69.99,
+      "description": "Delicate pearl bracelet, adding a touch of elegance to your summer wardrobe.",
+      "category": "Bracelets",
+      "image": "/images/pearly_braclet.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 35
+      }
+    },
+    {
+      "id": "33",
+      "title": "Leather Wrap Watch",
+      "price": 99.99,
+      "description": "Stylish leather wrap watch, combining fashion and function effortlessly.",
+      "category": "Watches",
+      "image": "/images/leather_wrap_watch.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 38
+      }
+    },
+    {
+      "id": "34",
+      "title": "Gold Chain Necklace",
+      "price": 529.99,
+      "description": "Classic gold chain necklace, a timeless addition to any jewelry collection.",
+      "category": "Necklaces",
+      "image": "/images/gold_chain_necklace.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 30
+      }
+    },
+    {
+      "id": "35",
+      "title": "Silver Cartilage Earring Set",
+      "price": 49.99,
+      "description": "Stylish silver cartilage earring set, perfect for mixing and matching.",
+      "category": "Earrings",
+      "image": "/images/silver_cartilage_earring_set.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 33
+      }
+    },
+    {
+      "id": "36",
+      "title": "Silver Link Bracelet",
+      "price": 69.99,
+      "description": "Sleek silver link bracelet, perfect for adding a touch of sophistication to any look.",
+      "category": "Bracelets",
+      "image": "/images/silver_link_bracelet.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 26
+      }
+    }
+  ],
+  "categories": [
+    "All",
+    "Rings",
+    "Bracelets",
+    "Earrings",
+    "Necklaces",
+    "Watches",
+    "Charms"
+  ]
+}
